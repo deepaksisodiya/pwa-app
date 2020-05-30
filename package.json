@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/deepaksisodiya/pwa-app",
   "name": "pwa-app",
   "version": "1.0.0",
   "description": "",
@@ -16,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/deepaksisodiya/pwa-app/issues"
   },
-  "homepage": "https://github.com/deepaksisodiya/pwa-app#readme",
   "devDependencies": {
     "gh-pages": "^3.0.0"
   }
